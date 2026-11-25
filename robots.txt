@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://da8alabs.com/sitemap.xml
